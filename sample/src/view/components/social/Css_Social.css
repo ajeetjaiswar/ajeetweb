@@ -1,0 +1,33 @@
+.googleButton{
+    width: 123px;
+    height: 40px;
+    border-radius: 5px;
+    border: solid 1px #cccccc;
+    background-color: #ffffff;
+    color: #000000;
+    font-size: 15px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+
+
+}
+.fbButton{
+    width: 123px;
+    height: 40px;
+    border-radius: 5px;
+    background-color: #3b5998;
+    font-size: 13px;
+    color: #ffffff;
+    border-color: #3b5998;
+}
+.fbButton i{
+    padding-right:5px;
+    width:19px;
+    height: 18px;
+}
+.img-responsive{
+    width:19px;
+    height: 18px;
+}

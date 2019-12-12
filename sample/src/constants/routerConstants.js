@@ -1,0 +1,22 @@
+export default {
+    landing: '/',
+    home: '/home',
+    login: '/login',
+    signUp: '/signup',
+    aboutUs: '/about',
+    team: '/team',
+    faq: '/faq',
+    terms: '/terms',
+    privacyPolicy: '/privacy-policies',
+    companySearch: '/search',
+    linkedin: '/linkedin',
+    askAndAnswer: '/ask-&-answer',
+    emailInput: '/emailInput',
+    forgotPassword: '/forgot-password',
+    resetPassword: '/reset-password',
+    verifyEmail: '/verify-email',
+    companies: '/companies',
+    aboutCompany: '/company/about',
+    companyIndustry: '/companies/industry',
+    companyLocation: '/companies/location'
+}

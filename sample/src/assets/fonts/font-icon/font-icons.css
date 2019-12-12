@@ -1,0 +1,85 @@
+@font-face {
+  font-family: 'icomoon';
+  src:  url('fonts/icomoon.eot?njn6ta');
+  src:  url('fonts/icomoon.eot?njn6ta#iefix') format('embedded-opentype'),
+    url('fonts/icomoon.ttf?njn6ta') format('truetype'),
+    url('fonts/icomoon.woff?njn6ta') format('woff'),
+    url('fonts/icomoon.svg?njn6ta#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="kool-"], [class*=" kool-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.kool-Applaud-clicked:before {
+  content: "\e900";
+  
+}
+.kool-blog:before {
+  content: "\e901";
+}
+.kool-bookmark:before {
+  content: "\e902";
+}
+.kool-BookMark-click:before {
+  content: "\e903";
+  
+}
+.kool-company:before {
+  content: "\e904";
+}
+.kool-home:before {
+  content: "\e905";
+}
+.kool-home-filled:before {
+  content: "\e906";
+  
+}
+.kool-message:before {
+  content: "\e907";
+}
+.kool-more:before {
+  content: "\e908";
+}
+.kool-Notification:before {
+  content: "\e909";
+}
+.kool-qa:before {
+  content: "\e90a";
+}
+.kool-question:before {
+  content: "\e90b";
+  
+}
+.kool-Respond:before {
+  content: "\e90c";
+}
+.kool-share_01:before {
+  content: "\e90d";
+}
+.kool-Share:before {
+  content: "\e90e";
+}
+.kool-ttkk:before {
+  content: "\e90f";
+}
+.kool-video:before {
+  content: "\e910";
+}
+.kool-Photo:before {
+  content: "\e911";
+}
